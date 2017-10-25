@@ -1069,6 +1069,7 @@ HEDGEHOG_FACTS = (
     'Its illegal to sell hedgehogs in Georgia, USA'
     'Most hedgehog species will roll into a tight ball if threatened, making it hard for its attacker to get past the spiky defences.',
     'A baby hedgehog is called a hoglet.',
+	'Hedgehogs can swim',
     'Hedgehogs communicate through a combination of snuffles, grunts and squeals.',
     'Hedgehogs have weak eyesight but a strong sense of hearing and smell. They can swim, climb and run surprising quickly over short distances.',
     'For their size hedgehogs have a relatively long lifespan. They live on average for 4-7 years in the wild and longer in captivity.',
