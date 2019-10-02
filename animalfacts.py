@@ -1767,6 +1767,7 @@ SALMON_FACTS = (
 	'Salmon flesh is orange due to organic pigments in their diet of krill and shellfish. Farmed salmon are fed fishmeal and wheat, which results in white flesh. Since consumers were reluctant to purchace white salmon, the pigments are added to their feed.',
 	'Salmon have an average of 2500 eggs, but can have up to 7000.',
 	'Salmon can travel up to 3500 miles to spawn.'
+	'Worldwide, more salmon are available now than in the last fifty years, because the collapse of salmon in the Pacific Northwest coincided with huge production through fishing in Alaska and British Columbia. During the same time, salmon farms in Norway and Chile produced one billion pounds of fish per year.',
 	)
 
 SCORPION_FACTS = (
