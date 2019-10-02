@@ -1237,6 +1237,7 @@ KOALA_FACTS = (
     'A baby koala is called a ‘joey’. Joeys live in their mother’s pouch for around six months and remain with them for another six months or so afterwards.',
     'Koalas cannot be kept legally as pets.',
 	'Baby Koalas can not digest raw eucalyptus, so the mother must digest it first, and the baby eats her poop.',
+	'Koalas are marsupials'
     )
 
 LADYBUG_FACTS = (
