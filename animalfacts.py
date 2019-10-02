@@ -300,6 +300,7 @@ def check_comment_for_animal(comment, reddit):
     botengine('platypus', '\splatypuse?s?\s', reddit, PLATYPUS_FACTS, comment)
     botengine('puma', '\spumas?\s', reddit, PUMA_FACTS, comment)
     botengine('porcupine', '\sporcupines?\s', reddit, PORCUPINE_FACTS, comment)
+    botengine('quokka', '/ˈkwɒkə/s', reddit, QUOKKA_FACTS, comment)		
     botengine('rabbit', '\srabbits?\s', reddit, RABBIT_FACTS, comment)
     botengine('raccoon', '\sraccons?\s', reddit, RACCOON_FACTS, comment)
     botengine('raven', '\sravens?\s', reddit, RAVEN_FACTS, comment)
@@ -1713,6 +1714,12 @@ PORCUPINE_FACTS = (
     "Young porcupine will leave its parents after couple of months and begin solitary life.",
     "Native Americans used porcupine's quills to decorate themselves in the past. They also used porcupines as a source of food.",
     "Porcupines can live 15-18 years. "
+    )
+QUOKKA_FACTS = (
+    'Quokkas are nocturnal marsupials.',
+	'They’re some of the smallest members of the macropod (or “big foot”) family',
+	'A quokka’s big feet are tipped with very sharp claws.',
+	'',
     )
 
 RABBIT_FACTS = (
